@@ -9,7 +9,7 @@ O CDBot é um projeto (original) de robô para web que foi desenvolvido para fac
 
 Da forma como foi codificado, o robô atuará como web scraper ou crawler e foi pensado especificamente para realizar ações de engenharia de dados a partir da [API RESTful](https://dadosabertos.camara.leg.br/swagger/api.html) integrada ao site [Dados Abertos](https://dadosabertos.camara.leg.br/) da Câmara dos Deputados.
 
-O CDBot é resultado dos estudos realizados proposto através da plataforma de ensino à distância [Alura](https://www.alura.com.br/), cujo objetivo é avaliar habilidades técnicas de extração, transformação e carregamento de dados abertos que possam ser úteis a processos de análise e tomada de decisão por diferentes empresas, associações e setores.
+O CDBot é resultado dos estudos realizados através da plataforma de ensino à distância [Alura](https://www.alura.com.br/), cujo objetivo é avaliar habilidades técnicas de extração, transformação e carregamento de dados abertos que possam ser úteis a processos de análise e tomada de decisão por diferentes empresas, associações e setores.
 
 
 
