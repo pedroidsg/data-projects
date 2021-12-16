@@ -22,7 +22,7 @@ Para tornar possíveis tais operações, o código de conferência do CDBot foi 
 1. Automação do acesso e preenchimento de dados (parâmetros) na [API](https://dadosabertos.camara.leg.br/swagger/api.html) do site [Dados Abertos](https://dadosabertos.camara.leg.br/), com uso do framework [Selenium](https://www.selenium.dev/);
 2. Extração e transformação de dados a partir das bibliotecas [urllib](https://docs.python.org/3/library/urllib.html), [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) e [pandas](https://pandas.pydata.org/);
 3. Conferência do código MD5 dos arquivos armazenados a partir dos comandos e funções da biblioteca [Hashlib](https://docs.python.org/3/library/hashlib.html).
-4. Exportação do dataframe em .csv e armazenamento local do arquivo.
+4. Exportação do dataframe para o formato .csv e armazenamento local do arquivo.
 
 Em todo o processo de codificação e execução do script do CDBot, foi utilizada a linguagem Python por meio do IDE da linguagem e [Jupyter Notebook](https://jupyter.org/). É possível verificar o desenvolvimento do código acessando os arquivos .py e .ipynb, e a licensa MIT atribuída ao robô, no repositório deste projeto.
 
