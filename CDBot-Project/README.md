@@ -17,7 +17,7 @@ O CDBot é resultado dos estudos realizados através da plataforma de ensino à 
 
 A principal operação atribuída ao CDBot é a de atuar como agente auxiliar na conferência de downloads de arquivos das proposições publicadas no site [Dados Abertos](https://dadosabertos.camara.leg.br/), bem como automâto de ações repetitivas. Neste sentido, busca-se contribuir para o aperfeiçoamento e eficácia das atividades de engenharia de dados aprendidas na [Alura](https://www.alura.com.br/).
 
-Para tornar possíveis tais operações, o código de conferência do CDBot foi desenvolvido em três etapas:
+Para tornar possíveis tais operações, o código de conferência do CDBot foi desenvolvido em quatro etapas:
 
 1. Automação do acesso e preenchimento de dados (parâmetros) na [API](https://dadosabertos.camara.leg.br/swagger/api.html) do site [Dados Abertos](https://dadosabertos.camara.leg.br/), com uso do framework [Selenium](https://www.selenium.dev/);
 2. Extração e transformação de dados a partir das bibliotecas [urllib](https://docs.python.org/3/library/urllib.html), [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) e [pandas](https://pandas.pydata.org/);
