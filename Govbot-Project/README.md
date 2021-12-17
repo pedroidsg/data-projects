@@ -65,4 +65,4 @@ De acordo com os dados obtidos, no ano de 2012 houve amplo desenvolvimento de ch
 
 A maior parte das organizações é proveniente do setor público e, em oposição, o desenvolvimento dessas tecnologias é resultado do trabalho de desenvolvedores(as) de empresas privadas contratadas.
 
-Obs.: O Govbot-Project é um desmembramento de pesquisa individual realizada no Centro de Estudos em Comunicação, Tecnologia e Política ([CTPol])(http://ctpol.unb.br) da Universidade de Brasília ([UnB])(https://www.unb.br). Somente uma parte dos dados já compilados foram agregados nesta análise, logo, não devem ser generalizados para qualquer fim.
+Obs.: O Govbot-Project é um desmembramento de pesquisa individual realizada no Centro de Estudos em Comunicação, Tecnologia e Política - [CTPol](http://ctpol.unb.br), da Universidade de Brasília - [UnB](https://www.unb.br). Somente uma parte dos dados já compilados foram agregados nesta análise, logo, não devem ser generalizados para qualquer fim.
